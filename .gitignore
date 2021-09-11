@@ -1,0 +1,8 @@
+# Environment variables defined here
+initEnv.go
+
+# Generated executables
+*.exe*
+
+# Any scripts kept within folder
+*.cmd*
